@@ -1,5 +1,6 @@
-BAR 412
-BAR 412 es un restaurante con una dinamica de reservas a traves de una pagina web. Diseñada para un mayor ordenamiento y gestion de reservas de los clientes. Ellos podran obtener su reserva a traves de la pagina web, para ello deberan registrarse o loguearse en el caso de ya contar con una cuenta realizada previamente. Una vez logueado se elige entre las fechas y horarios disponibles a traves del calendario de reservas, simplificando la organizacion para el restaurante y los conmensales que seran atendidos en la fecha y horarios de su preferencia.
+BAR PALERMITANO
+
+BAR´PALERMITANO es un restaurante con una dinamica de reservas a traves de una pagina web. Diseñada para un mayor ordenamiento y gestion de reservas de los clientes. Ellos podran obtener su reserva a traves de la pagina web, para ello deberan registrarse o loguearse en el caso de ya contar con una cuenta realizada previamente. Una vez logueado se elige entre las fechas y horarios disponibles a traves del calendario de reservas, simplificando la organizacion para el restaurante y los conmensales que seran atendidos en la fecha y horarios de su preferencia.
 
 
 Herramientas usadas en la construccion del proyecto
